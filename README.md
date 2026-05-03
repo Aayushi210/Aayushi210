@@ -25,5 +25,12 @@
 
 ---
 
+## 🚀 Current Focus
+- Data Structures & Algorithms  
+- Backend Development  
+- System Design Basics  
+
+---
+
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/aayu-)
